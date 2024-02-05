@@ -56,7 +56,7 @@ This project demonstrates a simple RESTful API service using Node.js, Express.js
 
    ```
 
-Access the API at http://localhost:3000.
+Access the API at http://127.0.0.1:3000.
 
 API Endpoints
 
