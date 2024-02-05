@@ -14,7 +14,7 @@ This project demonstrates a simple RESTful API service using Node.js, Express.js
 1. Clone this repository and make build:
 
    ```bash
-   git clone https://github.com/your-username/assignment_badar.git
+   git clone https://github.com/signityAnkush/assignment_badar.git
    ```
 
    ```bash
